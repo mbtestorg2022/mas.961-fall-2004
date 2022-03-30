@@ -4,6 +4,7 @@ description: This handout contains comments from the instructor clarifying and e
   the homework assignment questions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/mas-961-seminar-on-deep-engagement-fall-2004/21a5bf10e9d64df372e049e02031afac_instructorcoment.pdf
 file_type: application/pdf
+parent_uid: 5ad62aaa-97da-a4b8-c43f-a3ffc62e80e6
 resourcetype: Document
 title: instructorcoment.pdf
 uid: 21a5bf10-e9d6-4df3-72e0-49e02031afac
